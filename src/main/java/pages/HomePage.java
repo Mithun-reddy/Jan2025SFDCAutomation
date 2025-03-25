@@ -54,6 +54,10 @@ public class HomePage extends BasePage {
 		}
 		return isOptionsVerified;
 	}
+	
+	public boolean verifyHomePage() {
+		return this.myProfileOption.isDisplayed();
+	}
 
 	/**
 	 * This function will click on user menu and navigate to my profile page
