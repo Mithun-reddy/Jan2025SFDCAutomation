@@ -59,7 +59,6 @@ public class LoginTest extends BaseTest{
 			logger.error("BaseTest : loginErrorMsg_TC01 : login error msg validated "+e.getMessage());
 		}
 		
-		TestNG
 	}
 	
 	@Test(priority = 1)

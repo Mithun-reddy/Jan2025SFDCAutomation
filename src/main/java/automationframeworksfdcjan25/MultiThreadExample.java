@@ -35,11 +35,11 @@ public class MultiThreadExample implements Runnable{
 		MultiThreadExample mt4 = new MultiThreadExample(4);
 		MultiThreadExample mt5 = new MultiThreadExample(5);
 
-		mt.start();
-		mt2.start();
-		mt3.start();
-		mt4.start();
-		mt5.start();
+//		mt.start();
+//		mt2.start();
+//		mt3.start();
+//		mt4.start();
+//		mt5.start();
 
 	}
 
